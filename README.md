@@ -1,3 +1,7 @@
-# Hi there, I'm Ho Tuong Vy 👋
+### Hi there, I'm Hotuon Gvyqhfz 👋
 
-Software Developer passionate about cloud architecture, edge automation and clean code.
+- 🔭 **Current Focus:** Web developer exploring serverless architectures and edge functions on Cloudflare & Vercel.
+- 🏢 **Organization:** Beacon Digital Works
+- 📍 **Location:** Denver, CO
+- 💬 Ask me about: Web Development, Cloud Architecture, Automation & Open Source
+- ⚡ Fun fact: Passionate about continuous learning and developer tooling.
